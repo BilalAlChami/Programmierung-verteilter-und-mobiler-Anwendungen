@@ -1,0 +1,11 @@
+<resources> <!-- Beginn der Ressourcendefinitionen -->
+
+    <string name="app_name">Praktikum1_2</string> <!-- Der Name der Anwendung -->
+
+    <string name="activity0_title">MainActivity</string> <!-- Titel für die MainActivity -->
+    <string name="activity1_title">SecondActivity</string> <!-- Titel für die SecondActivity -->
+    <string name="Text">GEHE WEITER:</string> <!-- Eine allgemeine Nachricht "GEHE WEITER:" -->
+
+    <string name="SwitchActivivty">ZU SICHERN</string> <!-- Eine Nachricht "ZU SICHERN" für die Aktivitätswechsel-Schaltfläche -->
+
+</resources> <!-- Ende der Ressourcendefinitionen -->

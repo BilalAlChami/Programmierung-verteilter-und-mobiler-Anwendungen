@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnfangsActivity </string>
+    <string name="activity1_title">Activity von Samig</string>
+    <string name="activity2_title">Activity von Al Chami</string>
+    <string name="Activity1">--- Hier ist Samig ---</string>
+    <string name="Activity2">--- Hier ist Al Chami ---</string>
+    <string name="Switch">Gehe zu Al Chami </string>
+    <string name="Switch2">Gehe zu Samig </string>
+    <string name="Switch3">" Gehe zu Anfang"</string>
+    <string name="Switch4">" Gehe zu Anfang"</string>
+    <string name="Switch5">"Gehe zu Samig "</string>
+    <string name="Switch6">Gehe zu Al Chami</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A1A1A1"
+    tools:context=".SecondActivity">
+
+
+    <TextView
+        android:layout_width="378dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginRight="20dp"
+        android:layout_height="60dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/Text"
+        android:textColor="#000000"
+        android:textSize="9pt" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginBottom="597dp"
+        android:background="#A1A1A1"
+        android:cursorVisible="true"
+
+        android:ems="10"
+        android:freezesText="true"
+        android:inputType="textPersonName"
+        android:lineSpacingExtra="8sp"
+        android:textAlignment="center"
+        android:textColor="#009688"
+        android:textIsSelectable="true" />
+
+
+
+</LinearLayout>
