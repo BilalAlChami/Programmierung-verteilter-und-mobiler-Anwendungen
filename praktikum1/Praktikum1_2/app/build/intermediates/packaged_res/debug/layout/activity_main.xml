@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A1A1A1"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/switchActivityMain"
+        android:layout_width="378dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginRight="20dp"
+
+
+        android:background="#A7A1A1"
+        android:text="@string/SwitchActivivty"
+        android:textColor="@color/black"
+        android:textColorLink="#5A5959"
+        android:textSize="9pt"/>
+
+</LinearLayout>
+
+    <!--android:gravity="center_horizontal|bottom"-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- android:id="@+id/switchActivity" -->
