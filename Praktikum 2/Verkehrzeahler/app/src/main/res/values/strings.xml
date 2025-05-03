@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Verkehrzeahler</string>
+    <string name="activity_title">Verkehrzeahler</string>
+    <string name="ueberschrift">Ein Verkehrzeahler:</string>
+    <string name="buttontext">++</string>
+
+</resources>
