@@ -1,0 +1,6 @@
+com.example.verkehrzhler.test.app-annotation-experimental-1.4.0-0 C:\Users\abdul\.gradle\caches\transforms-4\5db71b8e60f6fdec762d3904d79fc695\transformed\annotation-experimental-1.4.0\res
+com.example.verkehrzhler.test.app-core-1.5.0-1 C:\Users\abdul\.gradle\caches\transforms-4\f3bde936b1322bac83b447381b29bed9\transformed\core-1.5.0\res
+com.example.verkehrzhler.test.app-androidTest-2 C:\Users\abdul\OneDrive\Desktop\Verkehrzeahler\app\build\generated\res\resValues\androidTest\debug
+com.example.verkehrzhler.test.app-mergeDebugAndroidTestResources-3 C:\Users\abdul\OneDrive\Desktop\Verkehrzeahler\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.verkehrzhler.test.app-mergeDebugAndroidTestResources-4 C:\Users\abdul\OneDrive\Desktop\Verkehrzeahler\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.verkehrzhler.test.app-debugAndroidTest-5 C:\Users\abdul\OneDrive\Desktop\Verkehrzeahler\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

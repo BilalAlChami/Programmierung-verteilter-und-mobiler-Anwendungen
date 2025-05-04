@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_title">Verkehrzeahler</string>
+    <string name="app_name">Verkehrzeahler</string>
+    <string name="buttontext">++</string>
+    <string name="ueberschrift">Ein Verkehrzeahler:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable rounded_border
+id btn_cyclist
+id btn_pedestrian
+id btn_reset
+id tv_fußgeanger_count
+id tv_radfahrer_count
+id tv_total_count
+layout activity_main
+string activity_title
+string app_name
+string buttontext
+string ueberschrift
+style AppBaseTheme
+style AppTheme
