@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.verkehrzhler.app-debug-31:/drawable_rounded_border.xml.flat",
+        "source": "com.example.verkehrzhler.app-main-33:/drawable/rounded_border.xml"
+    },
+    {
+        "merged": "com.example.verkehrzhler.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.verkehrzhler.app-main-33:/layout/activity_main.xml"
+    }
+]
