@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable icon_thk_android
+drawable rounded_border
+id name1
+id name2
+id option1
+id option2
+id textView
+layout activity_main
+menu context_menu
+menu options_menu
+string activity_title
+string app_name
+string ueberschrift
+style AppBaseTheme
+style AppTheme
+xml backup_rules
+xml data_extraction_rules
