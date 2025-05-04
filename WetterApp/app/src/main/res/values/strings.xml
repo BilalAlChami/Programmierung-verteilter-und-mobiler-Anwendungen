@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wetter-App</string>
+    <string name="Button1">Eingabe übernehmen</string>
+    <string name="Button2">Reset</string>
+    <string name="CheckBox1">Regen</string>
+    <string name="CheckBox2">Wind</string>
+</resources>
